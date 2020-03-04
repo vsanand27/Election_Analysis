@@ -24,5 +24,6 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
-![alt text](https://github.com/vsanand27/Election_Analysis/blob/master/analysis/election_analysis.txt)
+
+Click on the link below to view "Text file" generated with Python Code that review School District Analysis https://github.com/vsanand27/Election_Analysis/blob/master/analysis/election_analysis.txt)
 
